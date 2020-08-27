@@ -9,4 +9,4 @@ CREATE TABLE produtos (
     nome varchar(64) not null,
     preco decimal(10, 2) not null,
     imagem varchar(200)
-)
+);
