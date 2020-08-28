@@ -1,6 +1,3 @@
-<?php
-$host = "localhost";
-$database = "site_fulano";
-$user = "fulano";
-$pass = "MzhmYWJiYTgwMmEzMGM0M2NjYjA3MTMy";
-$conn = new PDO("mysql:host=${host};dbname=${database}", $user, $pass);
+version https://git-lfs.github.com/spec/v1
+oid sha256:5db66baed78d65ed97b39ae105ec4b7ac5d5e2727a08944c180b18d989afbf94
+size 194
